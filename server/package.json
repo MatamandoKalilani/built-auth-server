@@ -1,0 +1,11 @@
+{
+  "name": "built-auth-server",
+  "version": "1.0.0",
+  "description": "An fully functional auth server with phone, email and JWT. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matamando Kalilani, Built Different",
+  "license": "ISC"
+}
